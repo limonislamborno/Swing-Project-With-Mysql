@@ -2,7 +2,7 @@
 IsDB Management System
 
 :pushpin: Loading App:
-![ Loading App]([https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/1.%20Dashoard.png](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/1.%20Loading%20App.jpg))
+![ Loading App](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/1.%20Dashoard.png](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/1.%20Loading%20App.jpg)
 In This Dashboard The Total Customer, Todays deposit,withdraw and transfer amount Will show
 
 :pushpin: Open Acoount:
