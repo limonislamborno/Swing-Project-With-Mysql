@@ -1,16 +1,16 @@
 # Swing-Project-With-Mysql
 IsDB Management System
 
-:pushpin: Open Acoount:
+:pushpin: Loading App:
 ![Account Create Form](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/1.%20Loading%20App.jpg)
 Automatically show class roll available if any class selected
 
-:pushpin: Open Acoount:
-![Account Create Form](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/2.%20open%20Account.png)
+:pushpin: Login Page:
+![Account Create Form](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/2.%20login%20page.jpg)
 Automatically show class roll available if any class selected
 
-:pushpin: Customer List:
-![Customer List](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/3.%20customer%20list.png)
+:pushpin: Dashboard:
+![Customer List](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/3.%20dashboard.jpg)
 Show customer details with imortant information
 :pushpin: Account Active/Inactive:
 ![Customer List](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/3.%20customer%20list.png)
