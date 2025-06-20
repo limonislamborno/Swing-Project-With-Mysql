@@ -1,9 +1,9 @@
 # Swing-Project-With-Mysql
 IsDB Management System
 
-:pushpin: Loading App:
-![ Loading App](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/1.%20Dashoard.png](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/1.%20Loading%20App.jpg)
-In This Dashboard The Total Customer, Todays deposit,withdraw and transfer amount Will show
+:pushpin: Open Acoount:
+![Account Create Form](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/1.%20Loading%20App.jpg)
+Automatically show class roll available if any class selected
 
 :pushpin: Open Acoount:
 ![Account Create Form](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/2.%20open%20Account.png)
