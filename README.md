@@ -61,6 +61,9 @@ IsDB Management System
 :pushpin: Stuff Search:
 ![Transanction History](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/14.%20search%20by%20id%20stuff.jpg)
 
+:pushpin: Stuff Id Card Print:
+![Transfer Form](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/stuff%20id%20printed.jpg)
+
 
 :pushpin: Payment On Card:
 ![Transanction History](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/15.%20payment%20card.jpg)
@@ -84,4 +87,7 @@ IsDB Management System
 
 :pushpin: Trainee Dynamic CV Print:
 ![Transanction Statement](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/20.%20cv%20print%20by%20id.jpg)
+
+:pushpin: Trainee Dynamic CV Print:
+![Transanction Statement](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/Trinee%20Dynamic%20cv.jpg)
 
