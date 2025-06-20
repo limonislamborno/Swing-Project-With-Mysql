@@ -15,8 +15,8 @@ Show customer details with imortant information
 :pushpin: Account Active/Inactive:
 ![Customer List](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/3.%20customer%20list.png)
 
-:pushpin: Searching Account:
-![Searching Account](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/5.%20customer%20search.png)
+:pushpin: Trainee Save:
+![Searching Account](https://github.com/limonislamborno/Swing-Project-With-Mysql/blob/main/Screenshot/4.%20traine%20save.jpg)
 Account Search by account number or NID or mobile number
 :pushpin: Deposit Form:
 ![Deposit Form](https://github.com/limonislamborno/Angular-With-Spring-Boot-Project/blob/main/Screenshots/5.%20deposite%20form%202.png)
